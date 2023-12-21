@@ -1,0 +1,59 @@
+body{
+    background-color:#D6EAF8 !important;
+    color:Blue;
+}
+ul{
+    border:4px Black solid;
+    width:300px;
+    Background-color:lightgreen;
+}
+ol{
+    border:4px Black solid;
+    width:800px;
+    Background-color:lightgreen;
+}
+.Entry{
+    border:4px Black solid;
+    width:530px;
+    Background-color:lightgreen;
+}
+.long{
+    border:4px Black solid;
+    width:700px;
+    Background-color:lightgreen;
+}
+h2{
+    color:black;
+    border:4px black solid;
+    width:240px;
+    Background-color:Blue;
+}
+img{
+    border:4px black solid;
+    position: absolute;
+    top: 150px;
+    right: 200px ;
+}
+.Vid{
+    position: absolute;
+    top: 370px;
+    left: 350px ;
+}
+.vid{
+    border:4px black solid;
+}
+.List{
+    position: absolute;
+    top: 850px;
+    left: 50px ;
+} 
+.List2{
+    position: absolute;
+    top: 970px;
+    right: 200px ;
+} 
+.Dir{
+    position: absolute;
+    top: 655px;
+    right: 185px ;
+}

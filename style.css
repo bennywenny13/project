@@ -1,0 +1,22 @@
+
+h1{
+    text-align: center;
+    border:3px solid black;
+    background-color: lightgray;
+}
+p{
+    text-align: center;
+    border:3px solid black;
+    background-color: lightgray;
+}
+h3{
+    text-align: center;
+}
+footer{
+    text-align:center;
+    height:100px;
+    background-color:lightgray;
+}
+body{
+    background-color:#D6EAF8 !important;
+}
